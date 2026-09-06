@@ -1,0 +1,10 @@
+.env
+*.env
+tokens.enc
+tokens.enc.*
+*.key
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
