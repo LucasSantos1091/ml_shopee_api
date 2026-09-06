@@ -108,3 +108,6 @@ documentados por Mercado Livre e Shopee. Não armazena nem loga
 plano em nenhum momento (só em memória e no arquivo criptografado). Não
 inclui credenciais de exemplo reais — `.env.example` só tem os nomes das
 variáveis, vazios.
+
+
+
